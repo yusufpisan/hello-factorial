@@ -6,6 +6,7 @@
  */
 
 // should be lioke this Instructor says: You shoudl have made the changes here
+// you are right
 
 #include "factorial.h"
 #include <iostream>
